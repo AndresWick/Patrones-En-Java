@@ -1,6 +1,13 @@
-
+/**
+ *  Clase prueba del patrón.
+ * @author Carlos
+ *
+ */
 public class Prueba {
-
+    
+    /**
+    * Clase principal del programa.
+    */
 	public static void main(String[] args) {
 		
 	    	// Compramos un almmuerzo 
