@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  *  Clase que representa la categori de Administracion de UDIN.
- * @author Carlos
+ * @author Carlos Aguirre, Daniel Garcia.
  *
  */
 public class Administracion extends CategoriaUdin{

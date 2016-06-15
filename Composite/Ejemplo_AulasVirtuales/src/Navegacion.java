@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  *  Clase que representa la categoria de Navegacion de UDIN.
- * @author Carlos
+ * @author Carlos Aguirre, Daniel Garcia.
  *
  */
 public class Navegacion extends CategoriaUdin{

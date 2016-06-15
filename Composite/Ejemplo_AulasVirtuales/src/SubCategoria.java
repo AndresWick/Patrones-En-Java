@@ -1,6 +1,6 @@
 /**
  *  Clase que representa una categoria de una categoria.
- * @author Carlos
+ * @author Carlos Aguirre, Daniel Garcia.
  *
  */
 public class SubCategoria extends CategoriaUdin{

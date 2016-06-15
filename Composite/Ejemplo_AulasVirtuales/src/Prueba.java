@@ -1,5 +1,4 @@
 import javax.swing.JOptionPane;
-
 /**
  *  Prueba del patrón Composite.
  * @author Carlos
@@ -53,9 +52,5 @@ public class Prueba {
 		
 		//Ahora solo visualizamos el aula.
 		JOptionPane.showMessageDialog(null,modelos1.visualizar());
-		
-		
-
 	}
-
 }

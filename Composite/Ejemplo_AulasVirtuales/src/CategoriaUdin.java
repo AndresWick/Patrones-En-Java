@@ -1,6 +1,6 @@
 /**
  * Clase que representa una categoria de UDIN.
- * @author Carlos
+ * @author Carlos Aguirre, Daniel Garcia.
  *
  */
 public abstract class CategoriaUdin {

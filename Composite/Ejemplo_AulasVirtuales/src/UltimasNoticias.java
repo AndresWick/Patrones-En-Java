@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  *  Clase que representa la categoria de Noticias de UDIN.
- * @author Carlos
+ * @author Carlos Aguirre, Daniel Garcia.
  *
  */
 public class UltimasNoticias extends CategoriaUdin{
